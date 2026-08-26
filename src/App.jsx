@@ -781,7 +781,7 @@ export default function App() {
       </div>
 
       <div className="roi-print-report">
-        <div className="rp-eyebrow">Supreme PPD · Backward Integration</div>
+        <div className="rp-eyebrow"> Backward Integration</div>
         <h1>PU Foam ROI — Calculation Summary</h1>
         <div className="rp-meta">
           Scenario: <strong>{scenario}</strong> &nbsp;·&nbsp; Generated {new Date().toLocaleString('en-IN')}
