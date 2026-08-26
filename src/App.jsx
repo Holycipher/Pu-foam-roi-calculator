@@ -656,7 +656,7 @@ export default function App() {
 
       <div className="roi-screen-only">
       <header className="roi-hero">
-        <div className="roi-hero__eyebrow">Supreme PPD · Backward Integration</div>
+        <div className="roi-hero__eyebrow">Backward Integration</div>
         <h1 className="roi-hero__title">PU Foam ROI — Instrument Panel</h1>
         <p className="roi-hero__sub">
           Move a slider or type a number below — every reading on this panel updates immediately.
