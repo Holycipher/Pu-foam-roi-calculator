@@ -14,7 +14,6 @@ const PIE_COLORS = ['#1F6F5C', '#4C7A9C', '#C67A2E', '#8C6E4A', '#9AA0A6'];
 // plain text in the page's JavaScript, so anyone who opens browser dev tools
 // (or views source) can read it. It keeps an unshared link from being casually
 // stumbled on; it does not protect confidential figures from a determined viewer.
-const SITE_PASSWORD = 'supreme2026';
 
 const DEFAULTS = {
   ultimaExWorks: '',
