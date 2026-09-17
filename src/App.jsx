@@ -548,6 +548,9 @@ export default function App() {
       <style>{`
         .roi-app { font-family:'IBM Plex Sans',system-ui,-apple-system,sans-serif; color:#1B2430; background:#F7F3EA; padding-bottom:48px; }
         .roi-app * { box-sizing:border-box; }
+        .roi-hero__madeby {
+  color:#FFFFFF;
+}
         @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap');
 
         .roi-hero { background:linear-gradient(160deg,#0E1B2A,#16283D); color:#F2EFE6; padding:32px 26px 26px; }
@@ -654,7 +657,7 @@ export default function App() {
           .rp-footnote { font-size:9.5px; color:#666; margin-top:12px; }
         }
       `}</style>
-
+<div className="roi-hero__madeby">MADE BY – AYUSH NATH JHA</div>
       <div className="roi-screen-only">
       <header className="roi-hero">
         <div className="roi-hero__eyebrow">Backward Integration</div>
