@@ -775,9 +775,11 @@ export default function App() {
           </div>
         </div>
       </div>
-
-      <p className="roi-foot">
-        Illustrative model, not financial advice — the numbers are only as good as the estimates fed into them.
+<p className="roi-foot">
+  Illustrative model, not financial advice — the numbers are only as good as the estimates fed into them.
+  <br />
+  <strong>MADE BY – Ayush Nath Jha</strong>
+</p>
       </p>
       </div>
 
