@@ -429,6 +429,7 @@ function PasswordGate({ children }) {
       <form className="roi-gate__card" onSubmit={handleSubmit}>
         <div className="roi-gate__eyebrow"> Backward Integration</div>
         <h1 className="roi-gate__title">PU Foam ROI — Instrument Panel</h1>
+        <div className="roi-hero__madeby">MADE BY – Ayush Nath Jha</div>
         <p className="roi-gate__sub">This tool contains internal cost and pipeline figures. Enter the access code to continue.</p>
         <input
           type="password"
